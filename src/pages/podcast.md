@@ -3,12 +3,14 @@ layout: ../layouts/Layout.astro
 title: Podcast - AI Systems Architecture
 ---
 
-# Podcast
+The podcast explores **AI systems from an architectural perspective**.
 
-AI Architecture & Systems Teardowns is a long-form podcast examining how AI systems work in production. Each episode analyzes the architecture, failure modes, and execution tradeoffs of real-world AI implementations. This podcast focuses on systems, not models.
+Each episode examines a system as a whole: how it is structured, how it operates in practice, and where it tends to fail. The emphasis is on understanding real behavior rather than idealized designs.
 
-## Episodes
+Common themes include:
+- mismatches between intended and actual system behavior  
+- early bottlenecks that constrain scale  
+- failure modes that emerge slowly and silently  
+- architectural decisions that look reasonable but compound risk  
 
-* Episode 1: The Cost Layer Everyone Ignores
-* Episode 2: When Prompt Engineering Meets Production Scale
-* Episode 3: Decomposing a Failed AI Product Launch
+The discussions are analytical and system-focused, not tool-driven.

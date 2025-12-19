@@ -3,27 +3,19 @@ layout: ../layouts/Layout.astro
 title: AI Systems Architecture
 ---
 
-# AI Systems Architecture
+# AI Systems Architecture  
+**Understanding How AI Systems Behave in the Real World**
 
-## Thinking in Public About How Systems Actually Break
+I work at the systems and architecture layer of AI.
 
-I work at the systems and architecture layer of AI — where models meet infrastructure, incentives, latency, cost, and failure modes.
+This work focuses on how AI systems behave beyond the model: in production environments, under real constraints, and over time. The emphasis is on architecture, execution tradeoffs, and failure modes that are not visible in demos or benchmarks.
 
-This work is not about tools or demos. It is about end-to-end systems: how they behave in production, where they degrade silently, and why many "working" AI products fail under scale, integration, or time.
+Topics I spend time on include:
+- End-to-end AI system architecture  
+- Latency, cost, and throughput tradeoffs  
+- Degradation, drift, and operational failure modes  
+- Where human judgment remains essential in AI systems  
 
-My focus areas include:
+> *The model is rarely the problem. The system usually is.*
 
-* AI system architecture and execution tradeoffs
-* Bottlenecks, drift, and hidden failure modes
-* Where human judgment still matters in AI systems
-* How teams misallocate effort when building AI products
-
-We don't talk about models. We tear down systems.
-
-Primary outputs:
-
-* Podcast: AI Architecture & Systems Teardowns
-* Writing: Condensed volumes derived from podcast seasons
-* Research: Exploratory work in AI/ML systems (non-commercial)
-
-This site exists as a canonical reference for that work.
+This site serves as a reference point for my work across audio, writing, and research.
